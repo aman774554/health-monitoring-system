@@ -1,0 +1,37 @@
+.align-fields{
+    justify-content: center;
+    display: flex;
+}
+
+.box{
+    border: 1px solid #76a9fa;
+    padding: 46px 8px 56px 8px;
+    margin: 12px 4px;
+    border-radius: 8px;
+
+}
+
+.right-button{
+    float: right;
+    margin-right: 3%;
+}
+
+.answer-box{
+    margin: 0px 16px;
+}
+
+.content-box{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.text-heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+
+:where(.css-dev-only-do-not-override-3rel02).ant-layout-header{
+    background: #ffffff;
+    border-bottom: 2px solid #76a9fa ;
+
+}

@@ -1,0 +1,18 @@
+UI:-
+============================================================
+Need npm (Download Node.js)
+cd heath-monitoring-ui
+npm install
+npm run
+
+API:-
+============================================================
+Install python and pip
+py -m pip install Flask Flask-Cors pymongo transformers
+py -m pip install torch torchvision torchaudio
+py apy.py
+
+MongoDB:-
+=============================================================
+Install MongoDB
+https://www.geeksforgeeks.org/how-to-install-mongodb-on-windows/
